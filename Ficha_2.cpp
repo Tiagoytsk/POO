@@ -9,7 +9,7 @@ int main() {
 
 
 	case 1:
-		cout << "Calculadora: a executar";*/
+		cout << "Calculadora: a executar";
 		int n1, n2;
 		char operador;
 		cout << "---Calculadora---\nIntroduza o primeiro numero: ";
@@ -27,7 +27,7 @@ int main() {
 			cout << "Erro operador invalido";
 			break;
 		}
-
+*/
 	/*	break;
 	case 2:
 		cout << "Conversai de temperatura: a executar";
